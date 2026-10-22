@@ -1,0 +1,9 @@
+[submodule "FreeRTOS-Kernel"]
+	path = third_party/FreeRTOS-Kernel
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "cmsis_core"]
+	path = third_party/CMSIS/core
+	url = https://github.com/STMicroelectronics/cmsis_core.git
+[submodule "cmsis_device_f1"]
+	path = third_party/CMSIS/device_f1
+	url = https://github.com/STMicroelectronics/cmsis_device_f1.git
